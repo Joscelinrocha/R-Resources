@@ -85,10 +85,10 @@ show_related = {book = true}
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "Joscelin"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "JoscelinRocha"
 
 ############################
 ## Regional Settings
@@ -111,7 +111,7 @@ main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_l
 reading_time = true
 
 # Display next/previous section pager? (true/false)
-section_pager = false
+section_pager = true
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
@@ -209,4 +209,4 @@ plugins_js  = []
 ## Icon Pack Extensions
 ############################
 [icon.pack]
-  ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/

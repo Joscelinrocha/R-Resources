@@ -5,5 +5,5 @@
 
 [[main]]
   name = "List of Resources"
-  url = "docs/"
+  url = "Categories/"
   weight = 10

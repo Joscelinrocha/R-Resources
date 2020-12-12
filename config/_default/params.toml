@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "My book description."
+description = "Open source database of resources to learn and/or teach R."
 
 ############################
 ## Site Features
@@ -85,7 +85,7 @@ show_related = {book = true}
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = "Joscelin"
+sharing_image = "Joscelin.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "JoscelinRocha"
